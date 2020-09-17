@@ -1,0 +1,26 @@
+<annotation>
+	<folder>run</folder>
+	<filename>gc20180118_101032.jpg</filename>
+	<path>F:\Mackie Harvest\GrainCam\Lab\Training sets\50 Snails\run\gc20180118_101032.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1497</xmin>
+			<ymin>2225</ymin>
+			<xmax>1530</xmax>
+			<ymax>2252</ymax>
+		</bndbox>
+	</object>
+</annotation>

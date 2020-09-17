@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GC_20171011_BVS2_(NightPortrait_Torch)</folder>
+	<filename>tt_img_00076.jpg</filename>
+	<path>D:\projects\0002_snail_detection_1017\raw_data\GC_20171011_BVS2_(NightPortrait_Torch)\tt_img_00076.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1679</xmin>
+			<ymin>432</ymin>
+			<xmax>1740</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

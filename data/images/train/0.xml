@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotated</folder>
+	<filename>gc20180109_153114.jpg</filename>
+	<path>F:\projects\snail\phase1_delieverd\snail-master\snail_work\annotated\gc20180109_153114.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4128</width>
+		<height>5504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Snail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1695</xmin>
+			<ymin>5056</ymin>
+			<xmax>1735</xmax>
+			<ymax>5097</ymax>
+		</bndbox>
+	</object>
+</annotation>

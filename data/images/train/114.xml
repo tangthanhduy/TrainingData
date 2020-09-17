@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GC_20171011_BVS2_(Sunset_onlyHalf)</folder>
+	<filename>tt_img_00013.jpg</filename>
+	<path>F:\new_data\GC_20171011_BVS2_(Sunset_onlyHalf)\tt_img_00013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1107</xmin>
+			<ymin>663</ymin>
+			<xmax>1154</xmax>
+			<ymax>729</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pouria</folder>
+	<filename>IMG_20180111_101752.jpg</filename>
+	<path>F:\snail_new_sample_collection\Mackie Harvest\GrainCam\pouria\IMG_20180111_101752.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2694</width>
+		<height>3463</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Snail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2048</xmin>
+			<ymin>3145</ymin>
+			<xmax>2084</xmax>
+			<ymax>3185</ymax>
+		</bndbox>
+	</object>
+</annotation>

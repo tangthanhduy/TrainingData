@@ -1,0 +1,50 @@
+<annotation>
+	<folder>run (30 striped 30 flattish)</folder>
+	<filename>gc20180118_105556.jpg</filename>
+	<path>G:\Mackie Harvest\GrainCam\Lab\Training sets\30-30 Big snails\run (30 striped 30 flattish)\gc20180118_105556.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1396</xmin>
+			<ymin>1941</ymin>
+			<xmax>1437</xmax>
+			<ymax>1982</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>snail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>840</xmin>
+			<ymin>2192</ymin>
+			<xmax>886</xmax>
+			<ymax>2222</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>snail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1695</xmin>
+			<ymin>2155</ymin>
+			<xmax>1727</xmax>
+			<ymax>2216</ymax>
+		</bndbox>
+	</object>
+</annotation>

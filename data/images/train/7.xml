@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pouria</folder>
+	<filename>gc20180117_142423.jpg</filename>
+	<path>F:\snail_new_sample_collection\Mackie Harvest\GrainCam\pouria\gc20180117_142423.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Snail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1402</xmin>
+			<ymin>1343</ymin>
+			<xmax>1420</xmax>
+			<ymax>1366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Snail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>604</xmin>
+			<ymin>1853</ymin>
+			<xmax>628</xmax>
+			<ymax>1883</ymax>
+		</bndbox>
+	</object>
+</annotation>
